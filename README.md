@@ -21,8 +21,8 @@ acutalmente mi enfoque es ser backend .
 - 📈 **Automatización de Reportes en QlikView**  
   Creación de scripts para generación dinámica de QVDs, color coding inteligente y métricas acumuladas/anuales.
 
-- 🤖 **Bot de WhatsApp con WPPConnect + Node.js**  
-  Desarrollo de un bot conectado a WhatsApp para tareas automatizadas, integración con backend y base de datos.
+- 🤖 **Bot de WhatsApp con WPPConnect + Node.js y Python**  
+  Desarrollo de un bot conectado a WhatsApp para tareas automatizadas, integración con backend y base de datos actualmente en uso en la empresa de ALVIC MEXICO .
 
 - 🛰️ **Integración con Wialon API y servicios SOAP**  
   Lectura de unidades, grupos, y datos en tiempo real para monitoreo de transporte con php actualmente en uso en una empresa de soluciones al transporte SOS.
